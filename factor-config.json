@@ -1,0 +1,14 @@
+{
+  "config": {
+    "app": {
+      "name": "factor-test",
+      "description": "My top-notch Factor project",
+      "email": "factor-test <chpmnrssll@gmail.com>"
+    },
+    "roles": {
+      "chpmnrssll@gmail.com": "admin"
+    }
+  },
+  "development": {},
+  "production": {}
+}

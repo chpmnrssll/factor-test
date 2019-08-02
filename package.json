@@ -1,0 +1,17 @@
+{
+  "name": "factor-test",
+  "version": "1.0.0",
+  "description": "My top-notch Factor project",
+  "author": "",
+  "main": "src/index.js",
+  "private": true,
+  "factor": {
+    "target": [
+      "app"
+    ]
+  },
+  "dependencies": {
+    "@factor/index": "^1.0.0-alpha.15",
+    "@factor/theme-docs": "^1.0.0-alpha.15"
+  }
+}
