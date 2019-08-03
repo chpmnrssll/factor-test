@@ -5,13 +5,15 @@
   "author": "",
   "main": "src/index.js",
   "private": true,
+  "scripts": {
+    "heroku-postbuild": "yarn factor build"
+  },
   "factor": {
     "target": [
       "app"
     ]
   },
   "dependencies": {
-    "@factor/index": "^1.0.0-alpha.15",
-    "@factor/theme-docs": "^1.0.0-alpha.15"
+    "@factor/index": "^1.0.0-alpha.15"
   }
 }
