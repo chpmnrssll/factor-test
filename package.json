@@ -14,6 +14,6 @@
     ]
   },
   "dependencies": {
-    "@factor/index": "^1.0.0-alpha.15"
+    "@factor/index": "^1.0.0-y.0"
   }
 }
