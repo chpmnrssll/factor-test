@@ -1,9 +1,9 @@
 {
   "config": {
     "app": {
-      "name": "factor-test",
-      "description": "My top-notch Factor project",
-      "email": "factor-test <chpmnrssll@gmail.com>"
+      "name": "factor-cms",
+      "description": "Factor CMS project",
+      "email": "factor-cms <chpmnrssll@gmail.com>"
     },
     "roles": {
       "chpmnrssll@gmail.com": "admin"
