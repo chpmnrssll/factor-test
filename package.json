@@ -5,6 +5,9 @@
   "author": "Russell Chapman",
   "main": "src/index.js",
   "private": true,
+  "scripts": {
+    "heroku-postbuild": "yarn factor build"
+  },
   "factor": {
     "target": ["app"]
   },
