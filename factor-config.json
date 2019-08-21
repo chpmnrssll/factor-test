@@ -1,7 +1,7 @@
 {
   "app": {
     "name": "factor-test",
-    "description": "My world-class Factor project",
+    "description": "Factor test project",
     "email": "factor-test <chpmnrssll@gmail.com>"
   },
   "roles": {
