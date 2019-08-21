@@ -1,6 +1,6 @@
 # factor-test
 
-> My world-class Factor project
+> Factor-CMS test project
 
 ## Built with [Factor](https://factor.dev).
 
@@ -14,7 +14,7 @@ $ yarn start
 # build for production
 $ yarn factor build
 
-# deploy to development (staging) or production 
+# deploy to development (staging) or production
 # (based on configuration)
 $ yarn factor deploy [production or development]
 
