@@ -1,14 +1,10 @@
 {
-  "config": {
-    "app": {
-      "name": "factor-cms",
-      "description": "Factor CMS project",
-      "email": "factor-cms <chpmnrssll@gmail.com>"
-    },
-    "roles": {
-      "chpmnrssll@gmail.com": "admin"
-    }
+  "app": {
+    "name": "factor-test",
+    "description": "My world-class Factor project",
+    "email": "factor-test <chpmnrssll@gmail.com>"
   },
-  "development": {},
-  "production": {}
+  "roles": {
+    "chpmnrssll@gmail.com": "admin"
+  }
 }

@@ -1,6 +1,6 @@
 # factor-test
 
-> My top-notch Factor project
+> My world-class Factor project
 
 ## Built with [Factor](https://factor.dev).
 
