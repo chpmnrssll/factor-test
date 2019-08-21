@@ -6,7 +6,8 @@
   "main": "src/index.js",
   "private": true,
   "scripts": {
-    "heroku-postbuild": "yarn factor build"
+    "heroku-postbuild": "yarn factor build",
+    "start": "yarn factor serve"
   },
   "factor": {
     "target": ["app"]
