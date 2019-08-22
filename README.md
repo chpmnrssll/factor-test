@@ -14,7 +14,7 @@ $ yarn start
 # build for production
 $ yarn factor build
 
-# deploy to development (staging) or production
+# deploy to development (staging) or production 
 # (based on configuration)
 $ yarn factor deploy [production or development]
 

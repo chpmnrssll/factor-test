@@ -1,7 +1,7 @@
 {
   "name": "factor-test",
   "version": "1.0.0",
-  "description": "My world-class Factor project",
+  "description": "Factor-CMS test project",
   "author": "Russell Chapman",
   "main": "src/index.js",
   "private": true,
